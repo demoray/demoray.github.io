@@ -7,27 +7,28 @@ Atlantia is about to join the C&T melee experiment.  The <a href='/content/pdf/C
 
 * * *
 
-As best I can determine, the following are the requirements for the C&T Melee experiment in Atlantia, rewritten to be slightly easier to read.
+As best I can determine, the following are the requirements for the C&T Melee experiment in Atlantia, originally written by Master Giacomo (our KRM).  I normalized and reformatted the rules to be easier to read.
 
-## Proposed rules from Master Giacomo.
+## Proposed rules
 
 1. Single sword with rigid parrying.  No other offensive weapons.
 1. No more than three fighters per-side.
-1. Numbers are not required to be equal per side at the start of the fight.
-1. Armor requirements is society minimums.  Additional armor may be beneficial, such as hard knees and elbows.
-1. Expect up tempo, but absolutely NO up force.
+1. Armor requirements is society minimums.
 1. Blow calling must remain the same as standard C&T.
-1. Video tape every exercise if possible.
+1. Maintain minimum blow standard in calling and delivering, and document divergances.
+1. Video tape every exercise if possible, posting online for review.
 1. Record statements from observers and fighters, recording their feelings and what they saw.
-1. Report every event using normal reporting mechanisms, posting videos online for review.
-1. All authorized C&T fighters may participate
-1. At least one approved marshal for the experiment must observe the fighting
+1. Report every event using normal reporting mechanisms.
+1. All authorized C&T fighters may participate.
+1. At least one approved marshal for the experiment must observe the fighting.
 1. Authorized marshals may line marshal and assist as long as an authorized C&T marshal is not participating in the fight.
 
-##### Additional notes from Master Giacomo
+##### Additional notes
 
+1. Numbers are not required to be equal per side at the start of the fight.
+1. Expect up tempo, but absolutely NO up force.
+1. Additional armor may be beneficial, such as hard knees and elbows.
 1. All reports will be shared amongst experiment participants, KRM, and Society C&T Deputy, and SRM.
-1. Maintain minimum blow standard in calling and delivering, and document divergances.
 1. If fighters have valid blows fall on them and do not feel it during melee, record it.
 
 ### Changes required by Society
