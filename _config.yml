@@ -1,11 +1,11 @@
-# Site settings
 title: "Pedantic & Academic"
-logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
+logo: logo.png
 email: bmc@shmoo.com
-description: > # this means to ignore newlines until "baseurl:"
-  Everything is pedantic and academic, until you get owned.
+comment: Everything is pedantic and academic, until you get owned.
+description: >
+  <p> Husband, Father, Published author, Historical Combat Enthusiast. </p>
+
+  <p> Principal Investigator for numerous DARPA programs including <a href='http://www.cybergrandchallenge.com/'>CGC</a>, <a href='http://www.darpa.mil/program/integrated-cyber-analysis-system'>ICAS</a>, and <a href='http://www.darpa.mil/program/safer-warfighter-communications'>SAFER</a>.  Architecture Board Member of the <a href='http://www.darpa.mil/program/plan-x'>DARPA Plan X</a>.  SME for <a href='https://www.fbo.gov/spg/ODA/DARPA/CMO/DARPA-RA-11-52/listing.html'>DARPA CFT</a>.  Former <a href='http://www.snort.org'>Snort</a> and <a href='http://www.metasploit.com'>Metasploit</a> developer.  Alumni of the <a href='https://www.honeynet.org/'>Honeynet Project</a>.</p>
 twitter_username: evilcazz
 github_username:  demoray
-
-# Build settings
 markdown: kramdown

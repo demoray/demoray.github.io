@@ -392,7 +392,7 @@ body.noimage {
 article {
     margin: 65px auto 0 auto;
     padding: 0 30px;
-    max-width: 680px;
+    max-width: 850px;
     text-align: left
 }
 article #home_link {
@@ -450,7 +450,7 @@ article>header .count {
 }
 article .text {
     font-size: 18px;
-    line-height: 1.7em;
+    line-height: 1.4em;
     text-rendering: optimizeLegibility;
     max-width: 100%;
     text-align: center;
@@ -611,7 +611,8 @@ article .text ul, article .text ol, article .text dl {
     padding: 0 20px
 }
 article .text ul li, article .text ol li, article .text dl li {
-    margin: 14px 20px;
+    margin-top:0;
+    margin: 00px 20px;
     line-height: 1.5em
 }
 article .text ul ul {
@@ -789,7 +790,7 @@ body.user article header {
     text-align: left;
     margin: 0 auto;
     margin-bottom: 15px;
-    max-width: 680px
+    max-width: 850px
 }
 body.user article header h1 {
     margin: 0;
@@ -799,7 +800,7 @@ body.user article .image-holder {
     height: 300px;
     margin: 0 auto 30px auto;
     overflow: hidden;
-    max-width: 680px;
+    max-width: 850px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     -ms-border-radius: 3px;
@@ -832,7 +833,7 @@ body.user article .image-holder img {
 body.user article .meta {
     display: block;
     margin: 0 auto 20px auto;
-    max-width: 680px;
+    max-width: 850px;
     text-align: left;
     font-size: 14px;
     color: #a4adb6;
@@ -861,16 +862,6 @@ body.user article .readmore {
     -moz-box-shadow: white 0 0 14px;
     box-shadow: white 0 0 14px;
     white-space: nowrap;
-    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=0);
-    opacity: 0;
-    -webkit-transition-property: opacity, visibility, color;
-    -moz-transition-property: opacity, visibility, color;
-    -o-transition-property: opacity, visibility, color;
-    transition-property: opacity, visibility, color;
-    -webkit-transition-duration: 0.5s;
-    -moz-transition-duration: 0.5s;
-    -o-transition-duration: 0.5s;
-    transition-duration: 0.5s
 }
 body.user article .readmore:hover {
     color: #21272d
@@ -884,7 +875,7 @@ body.user article .text {
     text-align: left;
     margin: 0 auto;
     padding-bottom: 80px;
-    max-width: 680px
+    max-width: 850px
 }
 body.user article .text p {
     display: inline;
@@ -932,7 +923,7 @@ body.user>#load_more {
 }
 #post_nav nav {
     margin: 0 auto;
-    max-width: 680px
+    max-width: 850px
 }
 #post_nav a {
     color: #909396;
@@ -1034,7 +1025,7 @@ body>footer>.inner, .post-footer>.inner {
     text-align: left;
     margin: 0 auto;
     padding: 0 30px;
-    max-width: 680px
+    max-width: 850px
 }
 body>footer #btn_feed, .post-footer #btn_feed {
     position: absolute;
@@ -1196,7 +1187,7 @@ body>.no-posts {
     margin: 50px auto 120px auto;
     font-size: 16px;
     padding: 0 30px;
-    max-width: 680px
+    max-width: 850px
 }
 body>.no-posts.not-found {
     margin-top: 100px
@@ -1379,7 +1370,7 @@ body.touch.user article .readmore {
         opacity: 0
     }
 }
-@media only screen and (max-height: 800px) {
+@media only screen and (max-height: 850px) {
     body.user article.feature .wrap {
         padding-top: 20%
     }
@@ -1387,7 +1378,7 @@ body.touch.user article .readmore {
         padding-top: 30%
     }
 }
-@media only screen and (max-width: 680px) {
+@media only screen and (max-width: 850px) {
     article .text strong .roon-img {
         margin-left: -7.5%;
         width: 115%
