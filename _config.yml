@@ -1,0 +1,11 @@
+# Site settings
+title: "Pedantic & Academic"
+logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
+email: bmc@shmoo.com
+description: > # this means to ignore newlines until "baseurl:"
+  Everything is pedantic and academic, until you get owned.
+twitter_username: evilcazz
+github_username:  demoray
+
+# Build settings
+markdown: kramdown
