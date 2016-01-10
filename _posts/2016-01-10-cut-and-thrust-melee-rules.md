@@ -39,6 +39,7 @@ These are the following changes that we need to include for our current phase:
 1. Defensive secondaries are optional
 1. A minimum of four combatants per scenario
 1. All fighters must be authorized in cut and thrust combat for more than two years and have had no current official marshal-related issues on file.
+1. Each kingdom must maintain a list of up to 25 Cut and Thrust participants participating for the first year. If the kingdom is approved to continue into a second year of the experiment, any authorized Cut and Thrust combatant may participate.
 
 In addition, we are required to provide the additional information in our reports:
 
