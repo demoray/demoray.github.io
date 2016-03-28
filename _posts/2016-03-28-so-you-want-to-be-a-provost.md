@@ -3,7 +3,9 @@ title: So you want to be a Provost...
 layout: post
 ---
 
-I heard you want to be a Provost one day.  Maybe you should ...
+During the many vigils of Gulfwars, there was much discussion about the various things "required" to become a provost of Atlantia. To that end, I've started gathering a list of things you might want to do if you ever have dreams of becoming a provost of Atlantia.
+
+Maybe you should ...
 
 <i><b><span id="dostuff">(turn javascript on so you can see this)</span></b></i>
 
@@ -19,6 +21,7 @@ var things = [
     'Convince the entire army to scream "Fuck em in the ass"',
     'Do some service.  Maybe.  I\'ve heard it\'s important.',
     'Enjoy fighting',
+    'Entice the known world to turn all of rapier into a sexual innuendo',
     'Fight "Ninja Monkey Style"',
     'Fight in Battle of Nations',
     'Frequently use the excuse "Connor says it was OK"',
