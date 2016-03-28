@@ -21,7 +21,7 @@ var things = [
     'Enjoy fighting',
     'Fight "Ninja Monkey Style"',
     'Fight in Battle of Nations',
-    'Frequently use the excuse "Connor days it was OK"',
+    'Frequently use the excuse "Connor says it was OK"',
     'Get a longer sword',
     'Get into Krav Maga',
     'Get smacked upside the head with a mallet.',
