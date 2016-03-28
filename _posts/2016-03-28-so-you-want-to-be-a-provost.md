@@ -30,6 +30,7 @@ var things = [
     'Get smacked upside the head with a mallet.',
     'Have a pirate ship',
     'Have your emails forwarded from a private mailing list',
+    'Headbutt your opponent.  Repeatedly.',
     'Just keep doing what you\'re doing',
     'Move to Lochmere',
     'Never go to practices',
