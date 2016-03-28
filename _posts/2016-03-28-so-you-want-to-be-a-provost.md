@@ -32,6 +32,7 @@ var things = [
     'Have your emails forwarded from a private mailing list',
     'Just keep doing what you\'re doing',
     'Move to Lochmere',
+    'Never go to practices',
     'Play daggers for shots!',
     'Punch an opponent',
     'Say there is no checklist and then check your list',
