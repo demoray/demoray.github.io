@@ -63,6 +63,7 @@ var things = [
     'Use a decapitated baby doll head as a parrying device.',
     'Wear a bright gold jerkin.',
     'Win everything.  Win some more, and then maybe win a few more things.  Only then think about service.  Maybe.',
+    'Win the Atlantian 5 man multiple times.  Then wait. (For a long time)',
 ];
 var thing = things[Math.floor(Math.random() * things.length)];
 document.getElementById('dostuff').innerHTML = "&nbsp;&nbsp;&nbsp;" + thing;
