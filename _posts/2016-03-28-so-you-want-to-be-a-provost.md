@@ -15,6 +15,7 @@ Want to see the whole list?  <a id="all_the_things">Click here</a>
 
 <script>
 var things = [
+    'Always be seen in the finals of every tournament, marshaling.',
     'Attempt to rip the chain off a sitting monarch\'s neck.',
     'Build an anonymous report card system for provosts.',
     'Challenge someone to an actual duel.',
@@ -27,6 +28,7 @@ var things = [
     'Frequently use the excuse "Connor says it was OK".',
     'Get 6 sharks teeth.',
     'Get a longer sword.',
+    'Get a shark\'s tooth for something someone else did.',
     'Get into Krav Maga.',
     'Get smacked upside the head with a mallet.',
     'Have a pirate ship.',
