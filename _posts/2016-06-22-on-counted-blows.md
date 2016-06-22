@@ -23,4 +23,5 @@ This tournament format rewards hitting rather than not getting hit.
 If the clock stopped and fighters reset upon each blow, I would gladly participate as this would allow more fighting without disincentivizing defense.
 
 This involves swords, and while I support and celebrate all forms of sword combat, timed counted blow tournaments are not for me.
+
 This is not the Art of Defense.
