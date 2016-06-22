@@ -5,7 +5,7 @@ image: digrassi.jpg
 ---
 
 Rapier tournaments are traditionally fought until one combatant takes a disabling or killing blow.
-A recent fad in the Cut & Thrust tourney scene is use a tournament style similar to armored combat called Counted Blows.
+A recent fad in the Cut & Thrust scene is use a tournament style similar to armored combat called Counted Blows.
 In this tournament style, combat continues until a clock runs out, with victory going to the combatant with the most valid blows as judged by third parties.
 
 The idea has bothered me for a while, but it has taken me a formulate my opinion for public consumption.
