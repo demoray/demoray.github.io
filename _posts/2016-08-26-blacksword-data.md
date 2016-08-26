@@ -1,9 +1,10 @@
 ---
 layout: post
-title: On Counted Blows tournaments
+title: 2016 Blacksword Season Results
+image: digrassi.jpg
 ---
 
-In Atlantia, we have a recurring tournament format called Blacksword, which is used to inform decisions on who should represent our community in champion tournaments.  This tournament is fought as a Single Elimination bracket, where double kills count as a loss for both parties.  All results are recorded.  In the 2016 season, the following is the top 20 [Elo rankings](https://en.wikipedia.org/wiki/Elo_rating_system) for heavy rapier Blacksword tournament.
+In Atlantia, we have a recurring tournament format called Blacksword, which is used to inform decisions on who should represent our community in champion tournaments.  This tournament is fought as a Single Elimination bracket, where double kills count as a loss for both parties.  All results are recorded.  In the 2016 season, the following is the top 20 [Elo rankings](https://en.wikipedia.org/wiki/Elo_rating_system) for heavy rapier Blacksword tournaments, with a total of 108 competitors.
 
 1. Celric 1510.0
 2. Drogo 1482.0
@@ -25,3 +26,11 @@ In Atlantia, we have a recurring tournament format called Blacksword, which is u
 18. Mikal 1431.0
 19. Matthew 1429.0
 20. Terasu 1428.0
+
+The following are the top 5 results for C&T Blacksword tournaments, with a total of 18 competitors:
+
+1. Dante 1488.0
+2. Dietrich 1448.0
+3. Will Paris 1417.0
+4. Rauric 1416.0
+5. Terasu 1416.0
