@@ -11,11 +11,11 @@ In Atlantia, we have a recurring tournament format called Blacksword, which is u
 3. Leifr 1477.0
 4. Bumi 1468.0
 5. Dominyck 1461.0
-6. Connor 1455.0
+6. Connor 1456.0
 7. Illadore 1450.0
 8. Geoffrey 1450.0
-9. Fiora 1447.0
-10. Daemon 1447.0
+9. Daemon 1447.0
+10. Fiora 1446.0
 11. Ilaria 1445.0
 12. Percy 1436.0
 13. Ben 1436.0
