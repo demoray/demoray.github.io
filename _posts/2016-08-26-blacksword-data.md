@@ -10,10 +10,10 @@ In Atlantia, we have a recurring tournament format called Blacksword, which is u
 2. Drogo 1482.0
 3. Leifr 1477.0
 4. Dominyck 1461.0
-5. Connor 1456.0
+5. Connor 1455.0
 6. Bumi 1454.0
-7. Illadore 1450.0
-8. Geoffrey 1450.0
+7. Geoffrey 1450.0
+8. Illadore 1449.0
 9. Fiora 1446.0
 10. Ilaria 1445.0
 11. Percy 1436.0
@@ -28,14 +28,14 @@ In Atlantia, we have a recurring tournament format called Blacksword, which is u
 20. Terasu 1428.0
 21. Jean maurice 1417.0
 22. Marcellus 1416.0
-23. Aeron 1416.0
-24. Max 1416.0
-25. Charles Alexander 1414.0
-26. Caitilin 1405.0
-27. Rory 1404.0
-28. Charismos 1404.0
-29. Richard 1403.0
-30. Draco 1402.0
+23. Max 1416.0
+24. Charles Alexander 1414.0
+25. Caitilin 1405.0
+26. Rory 1404.0
+27. Charismos 1404.0
+28. Richard 1403.0
+29. Draco 1402.0
+30. Aeron Harper 1402.0
 
 The following are the top 5 results for C&T Blacksword tournaments, with a total of 18 competitors:
 
