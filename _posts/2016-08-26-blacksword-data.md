@@ -14,8 +14,8 @@ In Atlantia, we have a recurring tournament format called Blacksword, which is u
 6. Geoffrey 1418.7
 7. Bumi 1415.7
 8. Illadore 1415.1
-9. Ilaria 1414.9
-10. Fiora 1414.8
+9. Fiora 1414.9
+10. Ilaria 1414.9
 11. Percy 1410.5
 12. Ben 1410.3
 13. Linhart 1410.3
