@@ -18,7 +18,7 @@ A few things were very different that I should have known and failed to prepare 
 
 There were a few things that sucked:
 * Armor checks?  LOL.  While you had to have the appropriate gear, it didn't have to fit well.  Or cover anything useful.  "Yes, that is a fencing mask, no idea if it fits you or not.  GOOD."  "Yes, that plastic bit the size of a quarter counts as rigid elbows.  Have fun!"  For as much pestering as it took to get my helm approved, I was surprised at how awful the gear inspection was in practice.
-* Judging for rapier was atrocious.  Compared to longsword, rapier is extremely fast.  The judges played favorites, followed opinions of others, and were flat wrong *often*.  Not just my fights, judging throughout all of the rapier fighting was *crap*, including the finals.
+* Judging for rapier was atrocious.  The judges played favorites, followed opinions of others, and were flat wrong *often*.  Not just my fights, judging throughout all of the rapier fighting was *crap*, including the finals.
 * The dude-bro quota was too damn high.  I watched a friend land a thrust to their opponent's neck while controlling their opponent's weapon, which knocked the opponent backwards slightly, but was not awarded points as "There wasn't enough follow-through".  Said dude-bro-ism cost them the match.
 * The counted-blows tournament had greater than 20% injury rate not including one person with an estimated 120 square inches of bruising.  (My count is based on ice-packs on joints and visible blood.)
 
