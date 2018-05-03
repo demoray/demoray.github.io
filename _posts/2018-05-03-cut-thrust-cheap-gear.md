@@ -16,12 +16,14 @@ few more dollars.
 From Foam Factory, closed cell foam sheets that can be used for back of the
 hand protection for 50 pairs of glove for $32 using
 [Volara](https://www.foambymail.com/VA2/volara-foam.html) and $34 using
-[Neoprene](https://www.foambymail.com/NE/neoprene-foam-sheets.html).  Cut with
-sissors.
+[Neoprene](https://www.foambymail.com/NE/neoprene-foam-sheets.html).
 
 From Amazon, [3M Foam Fast 74 spray adhesive](https://www.amazon.com/3M-74-Spray-Adhesive-Clear/dp/B0728439NJ/),
 Spray adhesive designed for foam and fabric.  16.9 fl ounce for $25.  According
 to 3M, 1 can supports 25 pairs of gloves.
+
+Trace the back of your glove on the foam.  Cut with sissors.  Use spray
+adhesive to glue to the back of the hand.
 
 ## Demi Gauntlets
 
@@ -29,6 +31,10 @@ From Piedmont Plastics, 1/4" HPDE sheets at 4'*8' for $57.  15 pairs of of
 Articulated demi-gauntlets following Rainald's 
 [pattern for Articulated demi-gauntlets](http://www.armourarchive.org/patterns/demi_rainald/) 
 on the Armour Archive.
+
+Use a handsaw to cut out the pattern.  Use an oven to gently heat the HPDE to
+make soft, and have a friend help mold it to your hands.  (Wear your gloves,
+hot plastic hurts!)
 
 ## Back of the Head
 
