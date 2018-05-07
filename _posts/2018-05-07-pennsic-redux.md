@@ -4,7 +4,7 @@ title: Pennsic 2018 Rapier Rules Summary
 ---
 
 
-The Pennsic rapier conventions have been finalized.  While all combatants should review the full published ruleset, I have put together this (unfortunately long) reduction of the rules to identify the specific items of note that may impact you.
+The Pennsic rapier conventions have been finalized, but only available on Facebook at the moment.  The rules will be made available on the pennsic website in the near future and in the Pennsic Book available on site.  While all combatants should review the full published ruleset, I have put together this (unfortunately long) reduction of the rules to identify the specific items of note that may impact you.
 
 1. You must have at least one rapier auth prior to pennsic to participate in *ANY* rapier combat.
 2. You must meet Atlantia's standards for armor and the hosting kindom's standards for all other equipment.
