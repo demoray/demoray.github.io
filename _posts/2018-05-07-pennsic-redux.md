@@ -15,7 +15,7 @@ The Pennsic rapier conventions have been finalized, but only available on Facebo
 8. Calibration is "lightest touch felt".  If you feel the tip on body, you take it.
 9. Knee walking is allowed without limitations of "to engagement".
 10. If you use a two-handed weapon, you may not use a secondary weapon or parrying device.
-11. Shields & Bucklers cannot be more than 40" on any diagnle, and may only be wielded in one hand.
+11. Shields & Bucklers cannot be more than 40" on any diagonal, and may only be wielded in one hand.
 12. All fighters are "engaged" at lay on.
 13. You many only strike in the front 180 of the opponent's shoulder.
 14.  You must make "reasonable attempt" to get opponent's attention before throwing a blow.
