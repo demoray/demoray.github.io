@@ -13,7 +13,7 @@ The Pennsic rapier conventions have been finalized.  While all combatants should
 5. Marshals court will happen after every warpoint.  If you are called in, as witness, defendant, or accuser, you *must* bring your KRM (Me.)
 6. Tip, push, and draw cuts with at least 6" of blade travel are included as valid blows.
 7. No blade grasping.
-8. Calibration is "lighest touch felt".  NOT POINT ON.  If you feel the tip on body, you take it.
+8. Calibration is "lighest touch felt".  If you feel the tip on body, you take it.
 9. Knee walking is allowed without limitations of "to engagement".
 10. If you use a two-handed weapon, you may not use a secondary weapon or parrying device.
 11. Shields & Bucklers cannot be more than 40" on any diagnle, and may only be wielded in one hand.
