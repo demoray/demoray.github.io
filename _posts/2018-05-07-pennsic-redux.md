@@ -30,7 +30,7 @@ The Pennsic rapier conventions have been finalized, but only available on Facebo
 23. Fighters get *one* warning regarding running, then you will be removed from combat.
 24. If you step out of the boundaries, you are considered dead.  You may get warnings as you get near, but don't count on it.
 25. If you lose both hands/arms, you are considered dead.
-26. You may not "hide" amongst dead fighters.  If asked if you are alive by anyone, you must answer truthfully or be removed from the battle.
+26. You may not "hide" among dead fighters.  If asked if you are alive by anyone, you must answer truthfully or be removed from the battle.
 27. If you die, raise both weapons above your head and leave the field.
 28. You may not steal an opponent's dropped weapon.
 29. You may not discuss any tactics during holds.
