@@ -5,9 +5,9 @@ title: Pennsic 2018 Rapier Rules Summary
 
 The Pennsic rapier conventions have been finalized, but only available on Facebook at the moment.  The rules will be made available on the Pennsic website in the near future and in the Pennsic Book available on site.  While all combatants should review the full published rule set, I have put together this (unfortunately long) reduction of the rules to identify the specific items of note that may impact you.
 
-1. You must have at least one rapier auth prior to pennsic to participate in *ANY* rapier combat.
+1. You must have at least one rapier auth prior to Pennsic to participate in *ANY* rapier combat.
 2. You must meet Atlantia's standards for armor and the hosting kingdom's standards for all other equipment.
-3. You must be inspected EVERY DAY you wish to particpate in rapier activity at Pennsic.
+3. You must be inspected EVERY DAY you wish to participate in rapier activity at Pennsic.
 4. Marshals can remove the ability to participate for violation of the rules.  Including non-acceptance of blows, ignoring rules of engagement, etc.
 5. Marshals court will happen after every warpoint.  If you are called in, as witness, defendant, or accuser, you *must* bring your KRM (Me.)
 6. Tip, push, and draw cuts with at least 6" of blade travel are included as valid blows.
@@ -18,16 +18,16 @@ The Pennsic rapier conventions have been finalized, but only available on Facebo
 11. Shields & Bucklers cannot be more than 40" on any diagonal, and may only be wielded in one hand.
 12. All fighters are "engaged" at lay on.
 13. You many only strike in the front 180 of the opponent's shoulder.
-14.  You must make "reasonable attempt" to get opponent's attention before throwing a blow.
+14.  You must make a "reasonable attempt" to get opponent's attention before throwing a blow.
 15. If you approach from behind, you must be completely in front of the opponent's shoulders before you throw a blow.
 16. You must have visual contact before throwing a shot at an opponent.
 17. Daggers may not be used for DFBs.
 18. You must come to a complete stop prior to performing a DFB.
 19. You may not use your weapon while running in any way.
-20. You may not throw shots anyone that is running in any way.
+20. You may not throw shots at anyone that is running.
 21. You may not run through engagements.
 22. If you run, you must come to a complete stop before you use your weapon.
-23. Fighters get *one* warning regarding running, then you will be removed from combat.
+23. Fighters get *one* warning regarding running, then removed from combat upon second offense.
 24. If you step out of the boundaries, you are considered dead.  You may get warnings as you get near, but don't count on it.
 25. If you lose both hands/arms, you are considered dead.
 26. You may not "hide" among dead fighters.  If asked if you are alive by anyone, you must answer truthfully or be removed from the battle.
