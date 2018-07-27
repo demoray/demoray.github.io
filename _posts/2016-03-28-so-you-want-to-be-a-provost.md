@@ -65,6 +65,10 @@ var things = [
     'Win 4 Crowns',
     'Win everything.  Win some more, and then maybe win a few more things.  Only then think about service.  Maybe.',
     'Win the Atlantian 5 man multiple times.  Then wait. (For a long time)',
+    'Wear a youth shin guard as groin protection (and then brag about the ingenuity)',
+    'Have someone refute work related to your PHD with "my gut says you are wrong".',
+    'Break yourself multiple times by being a clumsy.',
+    'Win a HEMA longsword tourney',
 ];
 var thing = things[Math.floor(Math.random() * things.length)];
 document.getElementById('dostuff').innerHTML = "&nbsp;&nbsp;&nbsp;" + thing;
