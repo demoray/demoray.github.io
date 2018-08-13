@@ -69,6 +69,7 @@ var things = [
     'Have someone refute work related to your PHD with "my gut says you are wrong".',
     'Break yourself multiple times by being a clumsy.',
     'Win a HEMA longsword tourney',
+    'Throw up outside of a MOD\'s tent',
 ];
 var thing = things[Math.floor(Math.random() * things.length)];
 document.getElementById('dostuff').innerHTML = "&nbsp;&nbsp;&nbsp;" + thing;
