@@ -17,5 +17,5 @@ Things to help stay engaged with your coworkers:
 
 1. Use video conferences rather than phone calls if possible.  Facial expressions are helpful in reminding people of your existence.  (Buy a good webcam if you're able to do this.  A quality webcam is important.)
 2. Buy a good audio setup (mic/headphone or speakers).  Having crystal clear audio reduces issues in large conference calls.
-3. Over-communicate with everyone.  This is critical if your team is primarily collocated and you are not.  You'll be missing all of the "water-cooler" chat.  So a far more frequent stream of text is helpful.   r. When you travel to the home office, schedule many one-on-one meetings.
+3. Over-communicate with everyone.  This is critical if your team is primarily collocated and you are not.  You'll be missing all of the "water-cooler" chat.  So a far more frequent stream of text is helpful.   When you travel to the home office, schedule many one-on-one meetings.
 4. Schedule regular one-on-one discussions with your boss (I do this once a week).  Most "so, how are you doing" type questions happen in a normal office environment in the hallways.  If you have scheduled time, it will help remind them you exist and you can communicate any needs or issues.
