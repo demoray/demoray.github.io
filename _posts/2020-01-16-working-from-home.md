@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advice for working from home:
+title: Advice for working from home
 ---
 
 
