@@ -71,6 +71,7 @@ var things = [
     'Win a HEMA longsword tourney',
     'Throw up outside of a MOD\'s tent',
     'Issue a challenge to all of the kingdom\'s WS in the classified section of the Pennsic Independent',
+    'Steal your partner\'s equipment often enough that you become known for it, but only get recognized after you realize that it is sub-optimal and put it back down',
 ];
 var thing = things[Math.floor(Math.random() * things.length)];
 document.getElementById('dostuff').innerHTML = "&nbsp;&nbsp;&nbsp;" + thing;
