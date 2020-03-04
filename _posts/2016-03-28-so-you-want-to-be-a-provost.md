@@ -70,6 +70,7 @@ var things = [
     'Break yourself multiple times by being a clumsy.',
     'Win a HEMA longsword tourney',
     'Throw up outside of a MOD\'s tent',
+    'Issue a challenge to all of the kingdom\'s WS in the classified section of the Pennsic Independent',
 ];
 var thing = things[Math.floor(Math.random() * things.length)];
 document.getElementById('dostuff').innerHTML = "&nbsp;&nbsp;&nbsp;" + thing;
